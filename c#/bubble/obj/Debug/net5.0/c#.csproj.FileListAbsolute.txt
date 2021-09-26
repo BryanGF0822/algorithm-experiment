@@ -1,0 +1,15 @@
+/Users/bryanguapacha/Desktop/c#/bin/Debug/net5.0/c#.deps.json
+/Users/bryanguapacha/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/Users/bryanguapacha/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/Users/bryanguapacha/Desktop/c#/bin/Debug/net5.0/c#.dll
+/Users/bryanguapacha/Desktop/c#/bin/Debug/net5.0/ref/c#.dll
+/Users/bryanguapacha/Desktop/c#/bin/Debug/net5.0/c#.pdb
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.dll
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/ref/c#.dll
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.pdb
+/Users/bryanguapacha/Desktop/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
