@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bryanguapacha/Desktop/c#/c#.csproj": {}
+    "/Users/paolaandrea/Desktop/algorithm-experiment/c#/bubble/c#.csproj": {}
   },
   "projects": {
-    "/Users/bryanguapacha/Desktop/c#/c#.csproj": {
+    "/Users/paolaandrea/Desktop/algorithm-experiment/c#/bubble/c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bryanguapacha/Desktop/c#/c#.csproj",
+        "projectUniqueName": "/Users/paolaandrea/Desktop/algorithm-experiment/c#/bubble/c#.csproj",
         "projectName": "c#",
-        "projectPath": "/Users/bryanguapacha/Desktop/c#/c#.csproj",
-        "packagesPath": "/Users/bryanguapacha/.nuget/packages/",
-        "outputPath": "/Users/bryanguapacha/Desktop/c#/obj/",
+        "projectPath": "/Users/paolaandrea/Desktop/algorithm-experiment/c#/bubble/c#.csproj",
+        "packagesPath": "/Users/paolaandrea/.nuget/packages/",
+        "outputPath": "/Users/paolaandrea/Desktop/algorithm-experiment/c#/bubble/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bryanguapacha/.nuget/NuGet/NuGet.Config"
+          "/Users/paolaandrea/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
