@@ -28,7 +28,7 @@ function insertionSort( myArr ) {
     let start2 = new Date().getTime()
     insertionSort(arr2);
     //console.log("Repeticion (tam 1000): " + index)
-    console.log("Milliseconds: " + (new Date().getTime() - start2))
+    console.log("" + (new Date().getTime() - start2))
     
     //console.log(arr2);
 
