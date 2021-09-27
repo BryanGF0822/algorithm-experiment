@@ -1,0 +1,15 @@
+/Users/bryanguapacha/Desktop/insertion/bin/Debug/net5.0/insertion.deps.json
+/Users/bryanguapacha/Desktop/insertion/bin/Debug/net5.0/insertion.runtimeconfig.json
+/Users/bryanguapacha/Desktop/insertion/bin/Debug/net5.0/insertion.runtimeconfig.dev.json
+/Users/bryanguapacha/Desktop/insertion/bin/Debug/net5.0/insertion.dll
+/Users/bryanguapacha/Desktop/insertion/bin/Debug/net5.0/ref/insertion.dll
+/Users/bryanguapacha/Desktop/insertion/bin/Debug/net5.0/insertion.pdb
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.csproj.AssemblyReference.cache
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.AssemblyInfoInputs.cache
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.AssemblyInfo.cs
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.csproj.CoreCompileInputs.cache
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.dll
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/ref/insertion.dll
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.pdb
+/Users/bryanguapacha/Desktop/insertion/obj/Debug/net5.0/insertion.genruntimeconfig.cache
