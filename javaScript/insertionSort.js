@@ -19,16 +19,17 @@ function insertionSort( myArr ) {
 
   for (let index = 0; index < 100; index++) {
 
-    let start1 = new Date().getTime()
-    insertionSort(arr1);
-    console.log("Repeticion (tam 100): " + index)
-    console.log("Milliseconds: " + (new Date().getTime() - start1))
+    //let start1 = new Date().getTime()
+    //nsertionSort(arr1);
+    //console.log("Repeticion (tam 100): " + index)
+    //console.log("Milliseconds: " + (new Date().getTime() - start1))
     //console.log(arr1);
-
+    
     let start2 = new Date().getTime()
     insertionSort(arr2);
-    console.log("Repeticion (tam 1000): " + index)
+    //console.log("Repeticion (tam 1000): " + index)
     console.log("Milliseconds: " + (new Date().getTime() - start2))
+    
     //console.log(arr2);
 
    
