@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bryanguapacha/Desktop/insertion/insertion.csproj": {}
+    "/Users/paolaandrea/Desktop/algorithm-experiment/c#/insertion/insertion.csproj": {}
   },
   "projects": {
-    "/Users/bryanguapacha/Desktop/insertion/insertion.csproj": {
+    "/Users/paolaandrea/Desktop/algorithm-experiment/c#/insertion/insertion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bryanguapacha/Desktop/insertion/insertion.csproj",
+        "projectUniqueName": "/Users/paolaandrea/Desktop/algorithm-experiment/c#/insertion/insertion.csproj",
         "projectName": "insertion",
-        "projectPath": "/Users/bryanguapacha/Desktop/insertion/insertion.csproj",
-        "packagesPath": "/Users/bryanguapacha/.nuget/packages/",
-        "outputPath": "/Users/bryanguapacha/Desktop/insertion/obj/",
+        "projectPath": "/Users/paolaandrea/Desktop/algorithm-experiment/c#/insertion/insertion.csproj",
+        "packagesPath": "/Users/paolaandrea/.nuget/packages/",
+        "outputPath": "/Users/paolaandrea/Desktop/algorithm-experiment/c#/insertion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bryanguapacha/.nuget/NuGet/NuGet.Config"
+          "/Users/paolaandrea/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
