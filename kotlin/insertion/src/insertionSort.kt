@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
         var ordered = insertionsort(names)
         var time2 = System.currentTimeMillis()
         var time3 = time2 - time1
-        println("Milliseconds: " + time3)
+        println("" + time3)
         //println(ordered)
     }
 
@@ -19,7 +19,7 @@ fun main(args: Array<String>) {
         var ordered2 = insertionsort(names2)
         var time5 = System.currentTimeMillis()
         var time6 = time5 - time4
-        println("Milliseconds: " + time6)
+        println("" + time6)
         //println(ordered2)
     }
 

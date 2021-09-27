@@ -7,7 +7,7 @@ fun main(args: Array<String>) {
         ))
         val t2 = System.currentTimeMillis()
         val t3 = t2 - t1
-        println("Milliseconds: " + t3)
+        println("" + t3)
         //for (k in list) print("$k ")
     }
 
@@ -18,7 +18,7 @@ fun main(args: Array<String>) {
         ))
         val t5 = System.currentTimeMillis()
         val t6 = t5 - t4
-        println("Milliseconds: " + t6)
+        println("" + t6)
         //for (k in list2) print("$k ")
     }
 
